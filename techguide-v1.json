@@ -1,12 +1,12 @@
 {
-  "name": "Nome do Guia",
+  "name": "Angular",
   "expertises": [
     {
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado",
-          "description": "Descrição do Cartão",
+          "name": "JavaScript - Fundamentos",
+          "description": "",
           "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
             {
@@ -17,7 +17,7 @@
           ]
         },
         {
-          "id": "angular-forms.pt_BR"
+          "id": "javascript-fundamentals.pt_BR"
         }
       ]
     },
